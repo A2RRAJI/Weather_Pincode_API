@@ -1,8 +1,13 @@
-# Weatherr
+# Pincode and Weather API
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.1.2.
+This is an angular project which demonstrates the use of Indian Postal API and Open Weather API with combined functionality. 
 
 ## Development server
+
+```shell
+git clone https://github.com/bryanforbes/intern-angular
+cd intern-angular
+```
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
