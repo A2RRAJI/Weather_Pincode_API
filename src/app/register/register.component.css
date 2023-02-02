@@ -1,0 +1,19 @@
+.example-radio-button{margin-left: 7px;}
+mat-grid-tile {
+  background:#fafafa;
+}
+html { overflow-y: hidden; }
+body { position: absolute; }
+.width-50{width: 49%;}
+.width-49{width: 46.4%;}
+.width-33{width: 47.5%;}
+.ml-1{margin-left: 1%;}
+.ml-2{margin-left: 2%;}
+.width-100{width: 100%;}
+.width-90{width: 97%;}
+.width-25{width: 25%;}
+.example-container {
+
+  overflow: hidden;
+  position: absolute;
+}
